@@ -12,7 +12,7 @@ namespace traningapp
 
             try
             {
-                StreamReader sr = new StreamReader("mozgas.txt");
+                StreamReader sr = new StreamReader("C:\\Users\\HP\\Desktop\\mozgas.txt");
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
