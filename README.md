@@ -9,3 +9,7 @@
 <p align="center">
 ![alt text](https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
 </p>
+
+<p align="center">
+  <img src="https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif" alt="Sublime's custom image"/>
+</p>
