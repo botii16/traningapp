@@ -7,4 +7,4 @@
 <h2>A programunk elérhető a GitHUB oldalunkon!</h2>
 
 
-![alt text](align="left" https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
+![alt text](https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
