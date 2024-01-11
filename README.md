@@ -6,5 +6,6 @@
 
 <h2>A programunk elérhető a GitHUB oldalunkon!</h2>
 
-
+<p align="left">
 ![alt text](https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
+</p>
