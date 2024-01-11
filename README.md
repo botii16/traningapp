@@ -6,3 +6,6 @@
 <p>Ha nem szeretnél drága személyi edzőt bérelni, aki nyomon követi a fejlődésed az edzésed során akkor ez a program a megoldás!</p>
 <p>Csupán meg kell adnod az edzésed <b>dátumát</b>, <b>hosszúságát</b> illetve az edzés <b>típusát</b>.</p>
 <p>Ha ezeket az adatokat megadtad akkor a program ki listázza a rözített eredményed.</p>
+https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif
+
+![alt text](https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
