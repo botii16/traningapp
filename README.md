@@ -4,5 +4,7 @@
 <p>Csupán meg kell adnod az edzésed <b>dátumát</b>, <b>hosszúságát</b> illetve az edzés <b>típusát</b>.</p>
 <p>Ha ezeket az adatokat megadtad akkor a program ki listázza a rözített eredményed.</p>
 
+<h2>A programunk elérhető a GitHUB oldalunkon!</h2>
+
 
 ![alt text](https://im2.ezgif.com/tmp/ezgif-2-3ec83c4fe8.gif)
